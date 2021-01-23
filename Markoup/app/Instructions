@@ -1,0 +1,32 @@
+
+Need to build an app, once headset is connected to bluetooth, user can play music on Youtube(play a specific artist at will) and other streaming (which will be given to you) site using voice command.
+
+Streaming music sites
+Google music,Apple Music, Spotify, Pandora, Amazon music, YouTube, Sound cloud, Musicovery, Deezer, Slacker Radio,Revolt, Siriusxm, Tidal, Qobuz and Iheartradio
+
+You can make calls from your contact list via voice command & It can turn volume up and down using voice command..
+
+It also should be able to connect to car stereo speaker bluetooth and be able to carry out the same functions.
+
+You can also change the music in background by using App..Can also enable gps command via voice..Once certain commands are given, app should be able to carry out actions
+
+You should be able to call FaceTime/Facebook/Instagram live..
+
+There’ll be buttons to prompt actions just Incase voice recognition sensor missed voice commands
+IOS needs to be built in its native language...
+
+I do not need flutter or hybrid used for this project..Java is a must..
+
+I will supply you with other voice commands that needs to be used..
+
+My developer is working on a trained model you will be implementing aswell...
+
+This project includes setting up the backend API's..I will be providing Server for you to create the API on backend..
+
+By accepting this contract, you’re also agreeing to update me on progress of project every two days or contract will be cancelled..You’re also in full agreement that just swift alone will be used on this project and once you’re done, Apk and code will be submitted for review.
+
+Funds will only be released once project scope and satisfaction has been met.
+
+Once you call app name, Tectlk , it should allow you to prompt voice command action..Microphone should go into sleep mode once there is no music in the background or no voice commands or if app is idle for 2 minutes
+
+API’s will be provided

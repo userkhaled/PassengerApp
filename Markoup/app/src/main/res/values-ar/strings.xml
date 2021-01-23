@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places">
+        <item>طرابلس</item>
+        <item>بنغازي</item>
+        <item>مصراتة</item>
+        <item>الزاوية</item>
+        <item>سبها</item>
+        <item>الخمس</item>
+        <item>زليتن</item>
+        <item>صبراتة</item>
+        <item>غريان</item>
+        <item>سرت </item>
+        <item>أجدابيا </item>
+        <item>درنة </item>
+        <item>ترهونة </item>
+        <item>الكفرة </item>
+        <item>القبة </item>
+        <item>بني وليد </item>
+        <item>المرج</item>
+        <item>نالوت</item>
+        <item>صرمان</item>
+        <item>تاورغاء</item>
+        <item>يفرن</item>
+        <item>زوارة</item>
+        <item>أوباري</item>
+        <item>مرزق</item>
+        <item>البريقة</item>
+        <item>هون</item>
+        <item>جالو</item>
+        <item>سلوق</item>
+        <item>الأصابعة</item>
+        <item>الزنتان</item>
+        <item>الجفرة</item>
+        <item>مزدة</item>
+        <item>البطنان</item>
+        <item>البطنان</item>
+        <item>الجبل الاخضر</item>
+        <item>الوحات</item>
+        <item>وادي الشاطي</item>
+        <item>وادي الحياة </item>
+        <item>غات </item>
+        <item>المرقب</item>
+        <item>الجفارة</item>
+        <item>النقاط الخمس</item>
+        <item>الجبل الغربي</item>
+        <item>توكرة </item>
+        <item>الأبيار </item>
+        <item>أوجلة </item>
+        <item>مردة </item>
+        <item>ودان </item>
+        <item>براك </item>
+        <item>غدامس </item>
+        <item>سوسة </item>
+    </string-array>
+
+
+
+    <string name="app_name">Passenger</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="registerAsNewDriver">التسجيل كسائق جديد</string>
+    <string name="login">تسجيل دخول</string>
+    <string name="next">التالى</string>
+    <string name="enterPhoneNumber">ادخل رقم الموبايل</string>
+    <string name="enter_confirmation_code">ادخل رمز التاكيد</string>
+    <string name="skip">تخطي</string>
+    <string name="continue_with_email">الاستمرار باستخدام الايميل</string>
+    <string name="enter_your_name">ادخل اسمك ( مثال محمد)</string>
+    <string name="wrong_credintials">اسم المستخدم أو كلمة المرور خاطئة</string>
+    <string name="enter_promo_code">أدخل كود التخفيض</string>
+    <string name="choose_voyage_date">اختار يوم الرحلة</string>
+    <string name="customer_service">اختار يوم الرحلة</string>
+    <string name="ratings_and_reviews">اختار يوم الرحلة</string>
+    <string name="invite_friends">ادعو أصدقاء</string>
+    <string name="confirm_booking">تأكيد الطلب</string>
+    <string name="book_now">أحجز الان</string>
+    <string name="type_mercedes">النوع: مرسيدس</string>
+    <string name="enter_departure_station">اختار محطة الوقوف- من</string>
+    <string name="enter_arrival_station">أختار الوجهة الي</string>
+    <string name="find_driver">البحث عن سائق</string>
+    <string name="cash_payment">"كاش "</string>
+    <string name="_35_dienar">39 دينار</string>
+    <string name="cancel_booking">الغاء الحجز</string>
+    <string name="Moary">محطة  المعري</string>
+    <string name="Misrata">محطة مصراتة</string>
+    <string name="from">"الي "</string>
+    <string name="vehicle_type">"نوع المركبة :  "</string>
+    <string name="vehicle_number">"رقم المركبة: "</string>
+    <string name="_1_hour_to_destination">1 ساعة الي الوجهة</string>
+    <string name="_5_minutes_to_station">"8 دقائق الي المحطة "</string>
+    <string name="my_account">حسابي</string>
+    <string name="time_left">باقي ساعة علي موعد الرحلة</string>
+    <string name="select_vehicle_type">حدد نوع السيارة</string>
+    <string name="enter_vehicle_number">أدخل رقم السيارة</string>
+    <string name="upload_identification_id">تحميل معرف الهوية</string>
+    <string name="upload">رفع</string>
+    <string name="register_as_company">سجل كشركة</string>
+    <string name="forget_paas">هل نسيت كلمة المرور ؟</string>
+    <string name="enter_email">رجاءا أدخل بريدك الإلكتروني</string>
+    <string name="matcher_email">الرجاء جعل بريدك الإلكتروني مثل هذا example@example.com</string>
+    <string name="required_filed">هذه الخانة مطلوبه</string>
+    <string name="password_matcher">يرجى جعل كلمة مرورك أكبر من 8 أحرف</string>
+    <string name="example_example_com">example@example.com</string>
+    <string name="fb_excit">حسابك موجود</string>
+    <string name="success_process">عملية النجاح</string>
+    <string name="select_image">اختر صورة</string>
+    <string name="information">معلومات</string>
+    <string name="edit">تعديل</string>
+    <string name="change_password">غير كلمة السر</string>
+    <string name="trip_history">تاريخ الرحلة</string>
+    <string name="settings">إعدادات</string>
+    <string name="turn_on_gps">قم بتشغيل GPS</string>
+    <string name="verification_state">حالة التحقق</string>
+    <string name="check_verification_state">تحقق من حالة التحقق</string>
+    <string name="verfication">التحقق</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="contacts">جهات الاتصال</string>
+    <string name="terms_and_conditions">الأحكام والشروط</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="software_license">Software license</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="email_iser">البريد الإلكتروني</string>
+    <string name="phone_user">هاتف</string>
+    <string name="user_full_name">الاسم الكامل للمستخدم</string>
+    <string name="error">هناك خطأ ما</string>
+    <string name="check_verification_state_for_user_id">تحقق من حالة التحقق لمعرف المستخدم</string>
+    <string name="verified">تم التحقق</string>
+    <string name="call_now">اتصل الان</string>
+
+    <string name="choose_station">اختر المحطة</string>
+    <string name="enter_destination">أدخل الوجهة</string>
+    <string name="choose_trip_time">اختر وقت الرحلة والتاريخ</string>
+    <string name="trip_date">تاريخ الرحلة:</string>
+    <string name="not_Ava">غير متوفر</string>
+
+
+    <string-array name="voyage_filter">
+        <item>تقييم</item>
+        <item>الأفراد</item>
+        <item>شركات النقل</item>
+    </string-array>
+
+</resources>

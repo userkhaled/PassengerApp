@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.eeducationgo.tectik.features.ui.home.view.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_offers"
+            app:destination="@id/offers" />
+    </fragment>
+    <fragment
+        android:id="@+id/offers"
+        android:name="com.eeducationgo.tectik.features.ui.Offers"
+        android:label="fragment_offers"
+        tools:layout="@layout/fragment_offers" >
+        <action
+            android:id="@+id/action_offers_to_bookingFragment"
+            app:destination="@id/bookingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bookingFragment"
+        android:name="com.eeducationgo.tectik.features.ui.BookingFragment"
+        android:label="BookingFragment" >
+        <action
+            android:id="@+id/action_bookingFragment_to_bookedItem"
+            app:destination="@id/bookedItem" />
+    </fragment>
+    <fragment
+        android:id="@+id/bookedItem"
+        android:name="com.eeducationgo.tectik.features.ui.BookedItem"
+        android:label="BookedItem" />
+
+</navigation>
