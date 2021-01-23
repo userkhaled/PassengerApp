@@ -17,8 +17,7 @@ import okhttp3.RequestBody;
 import okhttp3.Response;
 
 public class SendNotificationThread {
-    // TODO: 9/27/2020
-    //  create by eng osama mohamed al-dasoqi
+
 
     private static final String TAG = "SendNotificationThread";
 
